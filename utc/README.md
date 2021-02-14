@@ -29,9 +29,9 @@ Urbit UTC Meetup #1
 <br><br>
 Thu Feb 18, 18:00 UTC
 <br><br>
-https://meet.jit.si/urbit-utc
+[meet.jit.si/urbit-utc](https://meet.jit.si/urbit-utc)
 <br><br>
-http://www.urbit.computer/utc/
+[urbit.computer/utc/](http://www.urbit.computer/utc/)
 
 </details>
 
@@ -59,9 +59,9 @@ Urbit UTC Meetup #1
 <br><br>
 Thu Feb 18, 18:00 UTC
 <br><br>
-https://meet.jit.si/urbit-utc
+[meet.jit.si/urbit-utc](https://meet.jit.si/urbit-utc)
 <br><br>
-http://www.urbit.computer/utc/
+[urbit.computer/utc/](http://www.urbit.computer/utc/)
 
 </details>
 
@@ -75,7 +75,7 @@ There is a [GitHub issue for questions and comments](https://github.com/urbit-co
 
 "Drinking with friends" (see [The Stack Episode #5](https://thestack.link/episode-5-buy-urbitcoin-with-christian-langalis/))
 
-**Thursdays 18:00 UTC**, https://meet.jit.si/urbit-utc**
+**Thursdays 18:00 UTC**, [meet.jit.si/urbit-utc](https://meet.jit.si/urbit-utc)
 
 
 <style>

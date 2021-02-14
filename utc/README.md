@@ -1,4 +1,4 @@
-# Ubit UTC
+# Urbit UTC
 
 ![Ubit UTC – Group for pilots in UTC-ish timezones (London, Berlin, Johannisburg)](https://user-images.githubusercontent.com/170145/105624669-e5f77c00-5e23-11eb-889a-0e0788c69001.png)
 
@@ -38,6 +38,7 @@ http://www.urbit.computer/utc/
 <br>
 There is a [GitHub issue for questions and comments](https://github.com/urbit-computer/urbit-computer.github.io/issues/2)
 
+---
 
 ### #2 – Thu Mar 18, 18:00 UTC
 

@@ -29,10 +29,10 @@ Urbit UTC Meetup
 <br><br>
 Thu Feb 18, 18:00 UTC
 <br><br>
-[meet.jit.si/urbit-utc](https://meet.jit.si/urbit-utc)
-<br><br>
-[urbit.computer/utc/](http://www.urbit.computer/utc/)
 
+<a href="https://meet.jit.si/urbit-utc">meet.jit.si/urbit-utc</a>
+<br><br>
+<a href="http://www.urbit.computer/utc/">urbit.computer/utc/</a>
 </details>
 
 <br>
@@ -59,10 +59,9 @@ Urbit UTC Meetup
 <br><br>
 Thu Mar 18, 18:00 UTC
 <br><br>
-[meet.jit.si/urbit-utc](https://meet.jit.si/urbit-utc)
+<a href="https://meet.jit.si/urbit-utc">meet.jit.si/urbit-utc</a>
 <br><br>
-[urbit.computer/utc/](http://www.urbit.computer/utc/)
-
+<a href="http://www.urbit.computer/utc/">urbit.computer/utc/</a>
 </details>
 
 <br>
@@ -81,7 +80,7 @@ There is a [GitHub issue for questions and comments](https://github.com/urbit-co
 <style>
   
 .markdown-body h1:first-of-type {
-display: none;
+  display: none;
 }
   
 <style>

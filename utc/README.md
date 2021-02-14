@@ -7,7 +7,6 @@
 
 ![utc-meetup-01-draft](https://user-images.githubusercontent.com/170145/107872139-4ec49800-6ea8-11eb-98e8-0d1784ed4233.jpeg)
 
-Agenda
 - 18:00 Open Doors
 - 18:15 Introduction: "What is Urbit?"
 - 18:30 **Rise of the Foundation: Alternative Paths for Urbit Development** by `~timluc-miptev `
@@ -16,7 +15,9 @@ Agenda
 
 
 <details><summary>
+
 **How do I RSVP?**
+
 </summary>
 
 Showing up is the new RSVP. Just set yourself a reminder or calendar entry. Here is some stuff to copypaste into your reminders or calendar:
@@ -27,7 +28,7 @@ Thu Feb 18, 18:00 UTC
 
 https://meet.jit.si/urbit-utc
 
-https://github.com/urbit-computer/urbit-computer.github.io/blob/main/utc/README.md#1--thu-feb-18-1800-utc
+http://www.urbit.computer/utc/#1--thu-feb-18-1800-utc
 
 </details>
 

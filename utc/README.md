@@ -14,7 +14,7 @@
 
 - 18:00 Open Doors
 - 18:15 Introduction: "What is Urbit?"
-- 18:30 **Rise of the Foundation: Alternative Paths for Urbit Development** by `~timluc-miptev `
+- 18:30 **Rise of the Foundation: Alternative Paths for Urbit Development** by `~timluc-miptev`
 - 19:00 On-Nomi Happy Hour
 
 
@@ -45,7 +45,7 @@ There is a [GitHub issue for questions and comments](https://github.com/urbit-co
 
 - 18:00 Open Doors
 - 18:15 Introduction: "What is Urbit?"
-- 18:30 **Rise of the Foundation: Alternative Paths for Urbit Development** by `~timluc-miptev `
+- 18:30 **AESTHETICS OF URBIT** by `~nartes-fasrum`
 - 19:00 On-Nomi Happy Hour
 
 <details><summary>

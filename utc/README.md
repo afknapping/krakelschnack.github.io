@@ -17,9 +17,7 @@
 
 
 <details><summary>
-
-**How do I RSVP?**
-
+<b>How do I RSVP?</b>
 </summary>
 
 Showing up is the new RSVP. Just set yourself a reminder or calendar entry. Here is some stuff to copypaste into your reminders or calendar:
@@ -42,3 +40,11 @@ There is a [github issue for questions and comments](https://github.com/urbit-co
 (add what is on-nomi)
 
 (add date)
+
+<style>
+  
+.markdown-body h1:first-of-type {
+display: none;
+}
+  
+<style>

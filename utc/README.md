@@ -21,7 +21,7 @@
 <details><summary>
 <b>How do I RSVP?</b>
 </summary>
-
+<br>
 Showing up is the new RSVP. Here is some stuff to copypaste into a reminder or calendar entry:
 <br><br>
 Urbit UTC Meetup #1

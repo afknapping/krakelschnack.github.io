@@ -1,15 +1,16 @@
 # Ubit UTC
 
-(add general community intro)
+![Ubit UTC – Group for pilots in UTC-ish timezones (London, Berlin, Johannisburg)](https://user-images.githubusercontent.com/170145/105624669-e5f77c00-5e23-11eb-889a-0e0788c69001.png)
 
-(link to general urbit intro)
+`~hocdep-labtel/urbit-utc`
+
+[What is Urbit?](https://urbit.org/faq/)
 
 ## Meetups
 
 ### #1 – Thu Feb 18, 18:00 UTC
 
-![utc-meetup-01-draft-2](https://user-images.githubusercontent.com/170145/107873008-2d1adf00-6eaf-11eb-9938-89d8f17141e9.png)
-
+![utc meetup 001](https://user-images.githubusercontent.com/170145/107885944-68dc9580-6efd-11eb-9786-4748ba7b8ba3.png)
 
 - 18:00 Open Doors
 - 18:15 Introduction: "What is Urbit?"
@@ -30,20 +31,51 @@ Thu Feb 18, 18:00 UTC
 <br><br>
 https://meet.jit.si/urbit-utc
 <br><br>
-http://www.urbit.computer/utc/#1--thu-feb-18-1800-utc
+http://www.urbit.computer/utc/
 
 </details>
 
 <br>
 There is a [GitHub issue for questions and comments](https://github.com/urbit-computer/urbit-computer.github.io/issues/2)
 
+
+### #2 – Thu Mar 18, 18:00 UTC
+
+![utc meetup 002](https://user-images.githubusercontent.com/170145/107885942-67ab6880-6efd-11eb-845b-2b0ea64bf5f8.png)
+
+- 18:00 Open Doors
+- 18:15 Introduction: "What is Urbit?"
+- 18:30 **Rise of the Foundation: Alternative Paths for Urbit Development** by `~timluc-miptev `
+- 19:00 On-Nomi Happy Hour
+
+<details><summary>
+<b>How do I RSVP?</b>
+</summary>
+<br>
+Showing up is the new RSVP. Here is some stuff to copypaste into a reminder or calendar entry:
+<br><br>
+Urbit UTC Meetup #1
+<br><br>
+Thu Feb 18, 18:00 UTC
+<br><br>
+https://meet.jit.si/urbit-utc
+<br><br>
+http://www.urbit.computer/utc/
+
+</details>
+
+<br>
+There is a [GitHub issue for questions and comments](https://github.com/urbit-computer/urbit-computer.github.io/issues/3)
+
+
 ---
 
 ## On-Nomi Happy Hours
 
-(add what is on-nomi)
+"Drinking with friends" (see [The Stack Episode #5](https://thestack.link/episode-5-buy-urbitcoin-with-christian-langalis/))
 
-(add date)
+**Thursdays 18:00 UTC**, https://meet.jit.si/urbit-utc**
+
 
 <style>
   

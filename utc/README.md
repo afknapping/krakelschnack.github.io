@@ -25,7 +25,7 @@
 <br>
 Showing up is the new RSVP. Here is some stuff to copypaste into a reminder or calendar entry:
 <br><br>
-Urbit UTC Meetup #1
+Urbit UTC Meetup
 <br><br>
 Thu Feb 18, 18:00 UTC
 <br><br>
@@ -55,9 +55,9 @@ There is a [GitHub issue for questions and comments](https://github.com/urbit-co
 <br>
 Showing up is the new RSVP. Here is some stuff to copypaste into a reminder or calendar entry:
 <br><br>
-Urbit UTC Meetup #1
+Urbit UTC Meetup
 <br><br>
-Thu Feb 18, 18:00 UTC
+Thu Mar 18, 18:00 UTC
 <br><br>
 [meet.jit.si/urbit-utc](https://meet.jit.si/urbit-utc)
 <br><br>

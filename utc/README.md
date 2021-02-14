@@ -22,13 +22,13 @@
 </summary>
 
 Showing up is the new RSVP. Just set yourself a reminder or calendar entry. Here is some stuff to copypaste into your reminders or calendar:
-
+<br><br>
 Urbit UTC Meetup #1
-
+<br><br>
 Thu Feb 18, 18:00 UTC
-
+<br><br>
 https://meet.jit.si/urbit-utc
-
+<br><br>
 http://www.urbit.computer/utc/#1--thu-feb-18-1800-utc
 
 </details>

@@ -8,12 +8,13 @@
 
 ### #1 – Thu Feb 18, 18:00 UTC
 
-![utc-meetup-01-draft](https://user-images.githubusercontent.com/170145/107872139-4ec49800-6ea8-11eb-98e8-0d1784ed4233.jpeg)
+![utc-meetup-01-draft-2](https://user-images.githubusercontent.com/170145/107873008-2d1adf00-6eaf-11eb-9938-89d8f17141e9.png)
+
 
 - 18:00 Open Doors
 - 18:15 Introduction: "What is Urbit?"
 - 18:30 **Rise of the Foundation: Alternative Paths for Urbit Development** by `~timluc-miptev `
-- 19:00 Q+A and On-Nomi Happy Hour
+- 19:00 On-Nomi Happy Hour
 
 
 
@@ -21,7 +22,7 @@
 <b>How do I RSVP?</b>
 </summary>
 
-Showing up is the new RSVP. Just set yourself a reminder or calendar entry. Here is some stuff to copypaste into your reminders or calendar:
+Showing up is the new RSVP. Here is some stuff to copypaste into a reminder or calendar entry:
 <br><br>
 Urbit UTC Meetup #1
 <br><br>

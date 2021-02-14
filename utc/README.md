@@ -1,6 +1,6 @@
 # Ubit UTC
 
-(add general community intro)
+(add general community intro) 
 (link to general urbit intro)
 
 ## Meetups

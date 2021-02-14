@@ -1,6 +1,7 @@
 # Ubit UTC
 
-(add general community intro) 
+(add general community intro)
+
 (link to general urbit intro)
 
 ## Meetups
@@ -32,9 +33,10 @@ http://www.urbit.computer/utc/#1--thu-feb-18-1800-utc
 
 </details>
 
-  
+<br>  
 There is a [GitHub issue for questions and comments](https://github.com/urbit-computer/urbit-computer.github.io/issues/2)
 
+---
 
 ## On-Nomi Happy Hours
 

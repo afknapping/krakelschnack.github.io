@@ -3,5 +3,5 @@
 helllo world
 
 <script>
-window.location.href("https://www.urbit.computer/utc");
+location.replace("https://www.urbit.computer/utc");
 </script>

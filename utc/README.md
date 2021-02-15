@@ -2,7 +2,7 @@
 
 ![Ubit UTC – Group for pilots in UTC-ish timezones (London, Berlin, Johannisburg)](https://user-images.githubusercontent.com/170145/105624669-e5f77c00-5e23-11eb-889a-0e0788c69001.png)
 
-`~hocdep-labtel/urbit-utc`
+Join at `~hocdep-labtel/urbit-utc`
 
 [What is Urbit?](https://urbit.org/faq/)
 
@@ -10,13 +10,14 @@
 
 ### #1 – Thu Feb 18, 18:00 UTC
 
-![utc meetup 001](https://user-images.githubusercontent.com/170145/107885944-68dc9580-6efd-11eb-9786-4748ba7b8ba3.png)
+![utc meetup #1 feb 18 2021](https://user-images.githubusercontent.com/170145/107885944-68dc9580-6efd-11eb-9786-4748ba7b8ba3.png)
 
 - 18:00 Open Doors
 - 18:15 Introduction: "What is Urbit?"
 - 18:30 **Rise of the Foundation: Alternative Paths for Urbit Development** by `~timluc-miptev`
 - 19:00 On-Nomi Happy Hour
 
+Link to join: [meet.jit.si/urbit-utc](https://meet.jit.si/urbit-utc)
 
 
 <details><summary>
@@ -42,12 +43,14 @@ There is a [GitHub issue for questions and comments](https://github.com/urbit-co
 
 ### #2 – Thu Mar 18, 18:00 UTC
 
-![utc meetup 002](https://user-images.githubusercontent.com/170145/107885942-67ab6880-6efd-11eb-845b-2b0ea64bf5f8.png)
+![utc meetup #2 mar 18 2021](https://user-images.githubusercontent.com/170145/107910588-07e3aa80-6f5b-11eb-8f95-b06379f537c5.png)
 
 - 18:00 Open Doors
 - 18:15 Introduction: "What is Urbit?"
 - 18:30 **AESTHETICS OF URBIT** by `~nartes-fasrum`
 - 19:00 On-Nomi Happy Hour
+
+Link to join: [meet.jit.si/urbit-utc](https://meet.jit.si/urbit-utc)
 
 <details><summary>
 <b>How do I RSVP?</b>

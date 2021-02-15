@@ -1,7 +1,7 @@
 # urbit-computer.github.io
 
-hello world
+helllo world
 
 <script>
-window.location.replace("https://www.urbit.computer/utc");
+window.location.href("https://www.urbit.computer/utc");
 </script>

@@ -1,6 +1,6 @@
 # Urbit UTC
 
-![Ubit UTC – Group for pilots in UTC-ish timezones (London, Berlin, Johannisburg)](https://user-images.githubusercontent.com/170145/105624669-e5f77c00-5e23-11eb-889a-0e0788c69001.png)
+![Ubit UTC – Group for pilots in UTC-ish timezones (London, Berlin, Johannisburg)](https://user-images.githubusercontent.com/170145/108239946-aaae4b80-714a-11eb-8e16-f27bed5395ab.png)
 
 Join at `~hocdep-labtel/urbit-utc`
 

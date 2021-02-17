@@ -73,6 +73,27 @@ There is a [GitHub issue for questions and comments](https://github.com/urbit-co
 
 ---
 
+### #3 – Thu Apr 15, 18:00 UTC
+
+(in planning, tba soon™)
+
+---
+
+### #4 – Thu May 20, 18:00 UTC
+
+(in planning, tba soon™)
+
+---
+
+### Next open slot: #5 – Thu June ??, ??:00 UTC
+
+DM `~hocdep-labtel` or [open an issue](https://github.com/urbit-computer/urbit-computer.github.io/issues/new) if you want to do a talk, demo or workshop
+
+---
+
+
+
+
 ## On-Nomi Happy Hours
 
 "Drinking with friends" (see [The Stack Episode #5](https://thestack.link/episode-5-buy-urbitcoin-with-christian-langalis/))

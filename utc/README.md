@@ -6,40 +6,8 @@ Join at `~hocdep-labtel/urbit-utc`
 
 [What is Urbit?](https://urbit.org/faq/)
 
-## Meetups
+## Upcoming meetups
 
-### #1 – Thu Feb 18, 18:00 UTC
-
-![utc meetup #1 feb 18 2021](https://user-images.githubusercontent.com/170145/107885944-68dc9580-6efd-11eb-9786-4748ba7b8ba3.png)
-
-- 18:00 Open Doors
-- 18:15 Introduction: "What is Urbit?"
-- 18:30 **Rise of the Foundation: Alternative Paths for Urbit Development** by `~timluc-miptev`
-- 19:00 On-Nomi Happy Hour
-
-Link to join: [meet.jit.si/urbit-utc](https://meet.jit.si/urbit-utc)
-
-
-<details><summary>
-<b>How do I RSVP?</b>
-</summary>
-<br>
-Showing up is the new RSVP. Here is some stuff to copypaste into a reminder or calendar entry:
-<br><br>
-Urbit UTC Meetup
-<br><br>
-Thu Feb 18, 18:00 UTC
-<br><br>
-
-<a href="https://meet.jit.si/urbit-utc">meet.jit.si/urbit-utc</a>
-<br><br>
-<a href="http://www.urbit.computer/utc/">urbit.computer/utc/</a>
-</details>
-
-<br>
-There is a [GitHub issue for questions and comments](https://github.com/urbit-computer/urbit-computer.github.io/issues/2)
-
----
 
 ### #2 – Thu Mar 18, 18:00 UTC
 
@@ -99,6 +67,16 @@ DM `~hocdep-labtel` or [open an issue](https://github.com/urbit-computer/urbit-c
 "Drinking with friends" (see [The Stack Episode #5](https://thestack.link/episode-5-buy-urbitcoin-with-christian-langalis/))
 
 **Thursdays 18:00 UTC**, [meet.jit.si/urbit-utc](https://meet.jit.si/urbit-utc)
+
+
+## Past meetups
+
+
+### #1 – **Rise of the Foundation: Alternative Paths for Urbit Development** by `~timluc-miptev` – Thu Feb 18 2021
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ysGYhveatuE?start=532" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 
 <style>

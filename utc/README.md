@@ -39,23 +39,18 @@ Thu Mar 18, 18:00 UTC
 There is a [GitHub issue for questions and comments](https://github.com/urbit-computer/urbit-computer.github.io/issues/3)
 
 
----
-
 ### #3 – Thu Apr 15, 18:00 UTC
 
 (in planning, tba soon™)
-
----
 
 ### #4 – Thu May 20, 18:00 UTC
 
 (in planning, tba soon™)
 
----
-
 ### Next open slot: #5 – Thu June ??, ??:00 UTC
 
 DM `~hocdep-labtel` or [open an issue](https://github.com/urbit-computer/urbit-computer.github.io/issues/new) if you want to do a talk, demo or workshop
+
 
 ---
 
@@ -68,6 +63,8 @@ DM `~hocdep-labtel` or [open an issue](https://github.com/urbit-computer/urbit-c
 
 **Thursdays 18:00 UTC**, [meet.jit.si/urbit-utc](https://meet.jit.si/urbit-utc)
 
+
+---
 
 ## Past meetups
 

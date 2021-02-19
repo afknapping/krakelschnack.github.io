@@ -71,7 +71,7 @@ DM `~hocdep-labtel` or [open an issue](https://github.com/urbit-computer/urbit-c
 
 ### #1 – **Rise of the Foundation: Alternative Paths for Urbit Development** by `~timluc-miptev` – Thu Feb 18 2021
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ysGYhveatuE?start=532" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b7-Q_KwxFb8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

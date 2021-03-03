@@ -59,6 +59,9 @@ DM `~hocdep-labtel` or [open an issue](https://github.com/urbit-computer/urbit-c
 
 ## On-Nomi Happy Hours
 
+![x](https://user-images.githubusercontent.com/170145/109058630-8373f300-76e3-11eb-9747-649e66ebca9f.png)
+
+
 "[Drinking with friends](https://www.standard.co.uk/lifestyle/onnomi-new-japanese-drink-trend-is-basically-digital-happy-hour-a4391171.html)" (see [The Stack Episode #5](https://thestack.link/episode-5-buy-urbitcoin-with-christian-langalis/))
 
 **Thursdays 18:00 UTC**, [meet.jit.si/urbit-utc](https://meet.jit.si/urbit-utc)

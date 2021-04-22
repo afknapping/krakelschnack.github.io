@@ -10,7 +10,8 @@ Join at `~hocdep-labtel/urbit-utc`
 
 ### #3 – Matilde Park on Landscape – Thu Apr 22, 18:00 UTC
 
-![](https://images.unsplash.com/photo-1433838552652-f9a46b332c40?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80)
+![image](https://user-images.githubusercontent.com/170145/115714102-0c6f7980-a377-11eb-8fab-436ec3f2c932.png)
+
 
 - 18:00 Open Doors
 - 18:15 Introduction: "What is Urbit?"

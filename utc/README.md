@@ -8,6 +8,35 @@ Join at `~hocdep-labtel/urbit-utc`
 
 ## Upcoming meetups
 
+### #3 – Matilde Park on Landscape – Thu Apr 22, 18:00 UTC
+
+![](https://images.unsplash.com/photo-1433838552652-f9a46b332c40?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80)
+
+- 18:00 Open Doors
+- 18:15 Introduction: "What is Urbit?"
+- 18:30 **Matilde Park on Landscape** (`~haddef-sigwen`)
+- 19:00 On-Nomi Happy Hour
+
+Link to join: [meet.jit.si/urbit-utc](https://meet.jit.si/urbit-utc)
+
+<details><summary>
+<b>How do I RSVP?</b>
+</summary>
+<br>
+Showing up is the new RSVP. Here is some stuff to copypaste into a reminder or calendar entry:
+<br><br>
+Urbit UTC Meetup
+<br><br>
+Thu Mar 18, 18:00 UTC
+<br><br>
+<a href="https://meet.jit.si/urbit-utc">meet.jit.si/urbit-utc</a>
+<br><br>
+<a href="http://www.urbit.computer/utc/">urbit.computer/utc/</a>
+</details>
+
+<br>
+There is a [GitHub issue for questions and comments](https://github.com/urbit-computer/urbit-computer.github.io/issues/3)
+
 
 ### #2 – Thu Mar 18, 18:00 UTC
 
@@ -39,9 +68,6 @@ Thu Mar 18, 18:00 UTC
 There is a [GitHub issue for questions and comments](https://github.com/urbit-computer/urbit-computer.github.io/issues/3)
 
 
-### #3 – Thu Apr 15, 18:00 UTC
-
-(in planning, tba soon™)
 
 ### #4 – Thu May 20, 18:00 UTC
 

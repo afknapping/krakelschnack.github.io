@@ -8,10 +8,9 @@ Join at `~hocdep-labtel/urbit-utc`
 
 ## Upcoming meetups
 
-### #3 – Matilde Park on Landscape – Thu Apr 22, 18:00 UTC
+### #3 with `~haddef-sigwen` – Matilde Park on Landscape – Thu Apr 22, 18:00 UTC
 
-![image](https://user-images.githubusercontent.com/170145/115714567-8869c180-a377-11eb-9ee9-bd2640d2cd71.png)
-
+![image](https://user-images.githubusercontent.com/170145/115736039-421e5d80-a38b-11eb-841d-b6adafede05c.png)
 
 
 - 18:00 Open Doors
